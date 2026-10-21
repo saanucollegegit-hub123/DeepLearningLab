@@ -69,5 +69,5 @@ The exact accuracy values may vary because of model initialization and training.
 
 ## Files
 
-- LabPrograms 2(a) and 2(b).ipynb - Neural network implementation using NumPy, Keras
+- LabPrograms_2(a)_and_2(b).ipynb - Neural network implementation using NumPy, Keras
 - screenshots/ - Output screenshots
