@@ -55,8 +55,7 @@ Program 1(b) achieved high classification accuracy and produced predictions corr
 
 ### Output Screenshots
 
-![Program 1a Output](screenshots/output1a.png)
-![Program 1b Output](screenshots/output1b.png)
+In Screenshots folder
 
 ## Files
 
